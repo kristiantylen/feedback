@@ -55,3 +55,4 @@ pos: Good workflow, issues of individuals did not interrupt the class much
 pos: Could catch on easily.
 pos: Good answers to questions.
 pos: Answering questions nicely.
+neg: Too many problems with Git 
