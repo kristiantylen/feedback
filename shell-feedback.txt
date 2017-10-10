@@ -56,3 +56,4 @@ pos: Could catch on easily.
 pos: Good answers to questions.
 pos: Answering questions nicely.
 neg: Too many problems with Git 
+pos: This is a test!!!
