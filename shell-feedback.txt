@@ -1,7 +1,7 @@
 neg: A bit wrapped up in the end.
 neg: Maybe need more structure?
 neg: More exercises to get a hand of it (but requires more time).
-pos: simple stuff - easy to understand.
+pos: simple stuff - easy to understand!
 pos: I felt I was able to follow all the terminal stuff.
 neg: Would have been good to find info on other commands/things one can do.
 pos: level was low - which is good, but would be nice to know in advance so UNIX trained people could skip it maybe.
@@ -46,7 +46,7 @@ neg: A bit more background knowledge about the context of programming and the di
 pos: Easy to follow.
 neg: It would be handy if we had a list of commands used for shell beforehand. Ex. ls=list, rm=remove,...
 pos: Godt intro begynderniveau.
-neg: Måske en mini tutorial som all kunne have lavet hjemmefra så man kan få de mest basale på plads inden man ankommer.
+neg: Måske en mini tutorial som ale kunne have lavet hjemmefra så man kan få de mest basale på plads inden man ankommer.
 pos: Slow steps are good.
 neg: There must be a good text editor somewher that works for all.
 neg: Would be handy for nano text editor guideline on website to come across as an instruction, not a suggestion, as many students didn't have nano.
